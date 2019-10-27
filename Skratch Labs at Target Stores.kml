@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Skratch Labs at Target Stores</name>
+    <NetworkLink>
+      <name>Skratch Labs at Target Stores</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1coJ-b5WGBaYBIuNbBe9okQHM2n4Hl9XL&lid=Ls3SQUIbw7o]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
